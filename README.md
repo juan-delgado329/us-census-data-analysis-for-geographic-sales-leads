@@ -69,6 +69,15 @@ Top counties by percent change in median income (out-of-state movers vs. county 
 
 > \\\*\\\*Note:\\\*\\\* The notebook was developed using Google Colab and Anaconda Navigator. File upload paths may need to be adjusted depending on your environment.
 
+## Special Credit
+
+**Getting Started With GIS and Spatial Research: Census Data Analysis with Python**
+UCLA Office of Advanced Research Computing (OARC)
+Instructor: Yoh Kawano
+[YouTube Tutorial](https://www.youtube.com/watch?v=QLJDp1XRjWA) | [GitHub Repository](https://github.com/yohman/getting-started-with-gis)
+
+---
+
 ## Author
 
 Juan Delgado — Syracuse University, IST 652 (School of Information Studies), 2024
